@@ -1,0 +1,18 @@
+WARNING 2025-04-27 20:22:07,813 utils Generated SESSION_ENCRYPTION_KEY: SBx0B82GPXW3ndDDfjiJBfx7oP5rjAek2yerqZKLG9U=
+WARNING 2025-04-27 21:26:15,697 utils Generated SESSION_ENCRYPTION_KEY: PvC881jAG8xovk1H0hPfl8_85N1Yv-tKeK4EeEZxdy8=
+WARNING 2025-04-27 22:33:02,576 utils Generated SESSION_ENCRYPTION_KEY: Pyz4CVlVw61Qnsf71ihBOBBE62QikGXl6IbEnfS8d0s=
+WARNING 2025-04-27 22:55:06,636 utils Generated SESSION_ENCRYPTION_KEY: mtL5JDRWRl0_aJv7Ma4sNJqFUu33_QrP3l2Bu9fCfyU=
+INFO 2025-04-27 22:55:36,855 views Received request: Method=POST, Path=/chatbot/query/
+INFO 2025-04-27 22:55:36,855 views Parsed data: {'message': 'hiii', 'session_id': 'session_1745774675003_5w80cwoqb1m'}
+INFO 2025-04-27 22:55:36,880 views Created new session: 04xxw0bof9fhi9uapxh4rwteqoj1shvg
+INFO 2025-04-27 22:55:36,888 views No existing session data for session: 04xxw0bof9fhi9uapxh4rwteqoj1shvg
+ERROR 2025-04-27 22:55:36,994 views Server error: no such column: chatbot_sessioncontext.id
+INFO 2025-04-27 22:55:53,173 views Received request: Method=POST, Path=/chatbot/query/
+INFO 2025-04-27 22:55:53,177 views Parsed data: {'message': 'pls help me with signup', 'session_id': 'session_1745774675003_5w80cwoqb1m'}
+INFO 2025-04-27 22:55:53,196 views Created new session: ul8b1jwf59kz28iuc2aoqnmvr7t2arot
+INFO 2025-04-27 22:55:53,196 views No existing session data for session: ul8b1jwf59kz28iuc2aoqnmvr7t2arot
+ERROR 2025-04-27 22:55:53,202 views Server error: no such column: chatbot_sessioncontext.id
+WARNING 2025-04-27 23:10:55,475 utils Generated SESSION_ENCRYPTION_KEY: 7JTHM-r2Fhkp54fUmzAMf4htBu1t8W4JDOuiIz-wyZ8=
+ERROR 2025-04-27 23:35:19,417 views Server error: 'Request' object has no attribute 'json'
+ERROR 2025-04-27 23:35:21,835 views Server error: 'Request' object has no attribute 'json'
+ERROR 2025-04-27 23:35:25,674 views Server error: 'Request' object has no attribute 'json'
